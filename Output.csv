@@ -1,0 +1,48 @@
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/10/2024	15.000000,7.500000,12.500000,8.200000,0.366000,100,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/11/2024	16.600000,9.300000,12.500000,6.500000,0.000000,0,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/12/2024	14.300000,9.300000,11.300000,7.100000,0.195000,100,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/13/2024	17.800000,10.000000,13.400000,9.300000,0.000000,0,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/14/2024	21.200000,13.300000,17.400000,12.200000,0.031000,100,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/15/2024	18.300000,15.000000,16.100000,13.900000,0.319000,100,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/16/2024	18.800000,15.000000,16.700000,13.700000,0.317000,100,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/17/2024	30.700000,15.600000,28.100000,11.600000,0.005000,100,hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/18/2024	20.600000,15.100000,18.000000,12.100000,0.066000,100,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/19/2024	23.300000,13.900000,18.200000,12.800000,0.000000,0,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/20/2024	22.200000,13.400000,17.400000,12.500000,0.000000,0,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/21/2024	27.800000,14.400000,21.550000,14.700000,0.000000,0,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/22/2024	27.900000,18.000000,23.100000,15.500000,0.000000,0,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/23/2024	25.600000,20.000000,22.300000,16.700000,1.062000,100,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/24/2024	29.300000,19.400000,24.200000,12.100000,0.000000,0,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/25/2024	26.100000,18.900000,22.200000,10.900000,0.000000,0,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/26/2024	38.200000,16.200000,25.333333,20.100000,1.262000,100,hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/27/2024	22.900000,18.900000,20.000000,18.300000,0.919000,100,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/28/2024	26.700000,18.900000,22.500000,14.500000,0.000000,0,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/29/2024	30.000000,16.000000,21.400000,18.100000,0.000000,0,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/30/2024	28.300000,15.000000,21.150000,14.500000,0.000000,0,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/31/2024	25.500000,15.600000,20.700000,6.600000,0.000000,0,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/8/2024	28.800000,17.100000,18.566667,14.500000,0.505000,100,not hot,not anomaly
+ Date , MaxTemp , MinTemp , AvgTemp , Humidity , PrecipProb , PrecipType , Hot , Anomaly 	
+5/9/2024	30.500000,16.200000,22.033333,9.000000,0.000000,0,hot,not anomaly
